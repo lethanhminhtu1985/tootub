@@ -1,0 +1,3 @@
+https://tootub.netlify.com/* https://tootub.com/:splat 301!
+https://www.tootub.com/* https://tootub.com/:splat 301!
+/*    /index.html   200
